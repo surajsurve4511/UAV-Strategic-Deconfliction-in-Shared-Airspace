@@ -1,0 +1,223 @@
+[
+    {
+        "drone_id": "flight_1",
+        "waypoints": [
+            {"x": 0.0, "y": 0.0, "z": 10.0, "timestamp": 1620000000.0},
+            {"x": 50.0, "y": 50.0, "z": 10.0, "timestamp": 1620001800.0},
+            {"x": 100.0, "y": 100.0, "z": 10.0, "timestamp": 1620003600.0}
+        ],
+        "start_time": 1620000000.0,
+        "end_time": 1620003600.0,
+        "speed": 5.0,
+        "safety_buffer": 10.0
+    },
+    {
+        "drone_id": "flight_2",
+        "waypoints": [
+            {"x": 20.0, "y": 20.0, "z": 20.0, "timestamp": 1620001200.0},
+            {"x": 60.0, "y": 60.0, "z": 20.0, "timestamp": 1620003000.0}
+        ],
+        "start_time": 1620001200.0,
+        "end_time": 1620003000.0,
+        "speed": 6.0,
+        "safety_buffer": 15.0
+    },
+    {
+        "drone_id": "flight_3",
+        "waypoints": [
+            {"x": 30.0, "y": 30.0, "z": 25.0, "timestamp": 1620000000.0},
+            {"x": 70.0, "y": 70.0, "z": 25.0, "timestamp": 1620003600.0}
+        ],
+        "start_time": 1620000000.0,
+        "end_time": 1620003600.0,
+        "speed": 4.0,
+        "safety_buffer": 10.0
+    },
+    {
+        "drone_id": "flight_4",
+        "waypoints": [
+            {"x": 15.0, "y": 25.0, "z": 30.0, "timestamp": 1620001000.0},
+            {"x": 55.0, "y": 65.0, "z": 30.0, "timestamp": 1620003200.0}
+        ],
+        "start_time": 1620001000.0,
+        "end_time": 1620003200.0,
+        "speed": 5.5,
+        "safety_buffer": 12.0
+    },
+    {
+        "drone_id": "flight_5",
+        "waypoints": [
+            {"x": 40.0, "y": 40.0, "z": 15.0, "timestamp": 1620000500.0},
+            {"x": 80.0, "y": 80.0, "z": 15.0, "timestamp": 1620003500.0}
+        ],
+        "start_time": 1620000500.0,
+        "end_time": 1620003500.0,
+        "speed": 5.0,
+        "safety_buffer": 10.0
+    },
+    {
+        "drone_id": "flight_6",
+        "waypoints": [
+            {"x": 10.0, "y": 15.0, "z": 35.0, "timestamp": 1620000000.0},
+            {"x": 60.0, "y": 65.0, "z": 35.0, "timestamp": 1620003600.0}
+        ],
+        "start_time": 1620000000.0,
+        "end_time": 1620003600.0,
+        "speed": 4.5,
+        "safety_buffer": 10.0
+    },
+    {
+        "drone_id": "flight_7",
+        "waypoints": [
+            {"x": 25.0, "y": 35.0, "z": 20.0, "timestamp": 1620000800.0},
+            {"x": 65.0, "y": 75.0, "z": 20.0, "timestamp": 1620003400.0}
+        ],
+        "start_time": 1620000800.0,
+        "end_time": 1620003400.0,
+        "speed": 5.0,
+        "safety_buffer": 15.0
+    },
+    {
+        "drone_id": "flight_8",
+        "waypoints": [
+            {"x": 50.0, "y": 50.0, "z": 30.0, "timestamp": 1620000000.0},
+            {"x": 90.0, "y": 90.0, "z": 30.0, "timestamp": 1620003600.0}
+        ],
+        "start_time": 1620000000.0,
+        "end_time": 1620003600.0,
+        "speed": 6.0,
+        "safety_buffer": 10.0
+    },
+    {
+        "drone_id": "flight_9",
+        "waypoints": [
+            {"x": 5.0, "y": 10.0, "z": 25.0, "timestamp": 1620001100.0},
+            {"x": 45.0, "y": 50.0, "z": 25.0, "timestamp": 1620003100.0}
+        ],
+        "start_time": 1620001100.0,
+        "end_time": 1620003100.0,
+        "speed": 5.0,
+        "safety_buffer": 12.0
+    },
+    {
+        "drone_id": "flight_10",
+        "waypoints": [
+            {"x": 35.0, "y": 45.0, "z": 10.0, "timestamp": 1620000000.0},
+            {"x": 75.0, "y": 85.0, "z": 10.0, "timestamp": 1620003600.0}
+        ],
+        "start_time": 1620000000.0,
+        "end_time": 1620003600.0,
+        "speed": 4.0,
+        "safety_buffer": 10.0
+    },
+    {
+        "drone_id": "flight_11",
+        "waypoints": [
+            {"x": 20.0, "y": 30.0, "z": 15.0, "timestamp": 1620000900.0},
+            {"x": 60.0, "y": 70.0, "z": 15.0, "timestamp": 1620003300.0}
+        ],
+        "start_time": 1620000900.0,
+        "end_time": 1620003300.0,
+        "speed": 5.5,
+        "safety_buffer": 10.0
+    },
+    {
+        "drone_id": "flight_12",
+        "waypoints": [
+            {"x": 45.0, "y": 55.0, "z": 20.0, "timestamp": 1620000000.0},
+            {"x": 85.0, "y": 95.0, "z": 20.0, "timestamp": 1620003600.0}
+        ],
+        "start_time": 1620000000.0,
+        "end_time": 1620003600.0,
+        "speed": 5.0,
+        "safety_buffer": 15.0
+    },
+    {
+        "drone_id": "flight_13",
+        "waypoints": [
+            {"x": 15.0, "y": 20.0, "z": 30.0, "timestamp": 1620001200.0},
+            {"x": 55.0, "y": 60.0, "z": 30.0, "timestamp": 1620003000.0}
+        ],
+        "start_time": 1620001200.0,
+        "end_time": 1620003000.0,
+        "speed": 6.0,
+        "safety_buffer": 10.0
+    },
+    {
+        "drone_id": "flight_14",
+        "waypoints": [
+            {"x": 30.0, "y": 40.0, "z": 25.0, "timestamp": 1620000000.0},
+            {"x": 70.0, "y": 80.0, "z": 25.0, "timestamp": 1620003600.0}
+        ],
+        "start_time": 1620000000.0,
+        "end_time": 1620003600.0,
+        "speed": 4.5,
+        "safety_buffer": 10.0
+    },
+    {
+        "drone_id": "flight_15",
+        "waypoints": [
+            {"x": 10.0, "y": 15.0, "z": 20.0, "timestamp": 1620001000.0},
+            {"x": 50.0, "y": 55.0, "z": 20.0, "timestamp": 1620003200.0}
+        ],
+        "start_time": 1620001000.0,
+        "end_time": 1620003200.0,
+        "speed": 5.0,
+        "safety_buffer": 12.0
+    },
+    {
+        "drone_id": "flight_16",
+        "waypoints": [
+            {"x": 40.0, "y": 50.0, "z": 15.0, "timestamp": 1620000000.0},
+            {"x": 80.0, "y": 90.0, "z": 15.0, "timestamp": 1620003600.0}
+        ],
+        "start_time": 1620000000.0,
+        "end_time": 1620003600.0,
+        "speed": 5.0,
+        "safety_buffer": 10.0
+    },
+    {
+        "drone_id": "flight_17",
+        "waypoints": [
+            {"x": 25.0, "y": 35.0, "z": 30.0, "timestamp": 1620000800.0},
+            {"x": 65.0, "y": 75.0, "z": 30.0, "timestamp": 1620003400.0}
+        ],
+        "start_time": 1620000800.0,
+        "end_time": 1620003400.0,
+        "speed": 5.5,
+        "safety_buffer": 10.0
+    },
+    {
+        "drone_id": "flight_18",
+        "waypoints": [
+            {"x": 5.0, "y": 10.0, "z": 10.0, "timestamp": 1620000000.0},
+            {"x": 45.0, "y": 50.0, "z": 10.0, "timestamp": 1620003600.0}
+        ],
+        "start_time": 1620000000.0,
+        "end_time": 1620003600.0,
+        "speed": 4.0,
+        "safety_buffer": 15.0
+    },
+    {
+        "drone_id": "flight_19",
+        "waypoints": [
+            {"x": 35.0, "y": 45.0, "z": 20.0, "timestamp": 1620001100.0},
+            {"x": 75.0, "y": 85.0, "z": 20.0, "timestamp": 1620003100.0}
+        ],
+        "start_time": 1620001100.0,
+        "end_time": 1620003100.0,
+        "speed": 5.0,
+        "safety_buffer": 10.0
+    },
+    {
+        "drone_id": "flight_20",
+        "waypoints": [
+            {"x": 20.0, "y": 30.0, "z": 25.0, "timestamp": 1620000000.0},
+            {"x": 60.0, "y": 70.0, "z": 25.0, "timestamp": 1620003600.0}
+        ],
+        "start_time": 1620000000.0,
+        "end_time": 1620003600.0,
+        "speed": 6.0,
+        "safety_buffer": 10.0
+    }
+]

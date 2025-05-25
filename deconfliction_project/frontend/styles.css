@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+#container {
+    display: flex;
+    height: 100vh;
+}
+
+#scene-container {
+    width: 70%;
+    background-color: #000;
+}
+
+#ui {
+    width: 30%;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: -2px 0 5px rgba(0,0,0,0.2);
+}
+
+#mission-form {
+    display: flex;
+    flex-direction: column;
+}
+
+#mission-input {
+    margin-bottom: 10px;
+    font-family: monospace;
+}
+
+#controls {
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#time-control {
+    margin: 10px 0;
+}
+
+#time-slider {
+    width: 100%;
+}
+
+#results {
+    margin-top: 20px;
+    max-height: 50vh;
+    overflow-y: auto;
+}
