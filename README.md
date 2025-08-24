@@ -153,7 +153,7 @@ For real-world deployment with tens of thousands of drones, the reflection docum
 
 ## License
 
-MIT License. See LICENSE file for details.
+This project is licensed under the [MIT License](./LICENSE). See the LICENSE file for details.
 
 ---
 
